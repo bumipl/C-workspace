@@ -1,3 +1,7 @@
+################################################
+#This code will create a new .c extension file #
+#with sceleton content inside                  #
+################################################
 #!/bin/bash
 
 template='#include <stdio.h>
